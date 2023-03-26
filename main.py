@@ -2,6 +2,7 @@ import shutil
 import os
 import datetime
 
+
 # wybór folderu, który ma zostać zbackupowany
 folder_to_backup = "ścieżka"
 

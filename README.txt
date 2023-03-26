@@ -12,8 +12,3 @@ Opcjonalnie, zmień format nazwy pliku kopii zapasowej w linii 12, np. backup_{}
 Uruchom skrypt i poczekaj, aż zostanie utworzona kopia zapasowa. Po zakończeniu działania skryptu zostanie wyświetlony komunikat z potwierdzeniem utworzenia kopii zapasowej.
 
 Created by kamiln01
-
-skrypt jest dostępny na licencji MIT. Szczegóły znajdują się w pliku LICENSE.
-
-
-
